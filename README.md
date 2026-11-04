@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Hamza Afkir!**<br><br>💻 I'm a Software Development student at Grafisch Lyceum Rotterdam (MBO Level 4).<br><br>🚀 I'm passionate about web development, AI integration, and building modern websites and applications.<br><br>🛠️ **Skills:** HTML, CSS, JavaScript, PHP, MySQL & Git.<br><br>📚 Currently improving my programming skills and working on new projects.<br><br>🎯 **Goal:** Become a professional software developer and gain real-world experience through an internship.<br><br>📍 Rotterdam, Netherlands
+💻 Software Development Student @ GLR | Web Development · AI Integration · Fast MVPs | 📍 Rotterdam, NL
 
 
 ## 🌐 Socials:
